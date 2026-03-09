@@ -1,3 +1,18 @@
+# Iris Dataset Analysis
+
+This repository contains data analysis and preprocessing of the famous Iris dataset using Python.
+
+The project demonstrates:
+- Data loading using Pandas
+- Data exploration
+- Checking null values and duplicates
+- Converting categorical data into numeric
+- Feature scaling (Normalization and Standardization)
+  Tools Used:
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
 # Feature Scaling:
 * Feature scaling is a data pre processing step, that improves (significantly) the performance of some 
 machine learning algorithms.
